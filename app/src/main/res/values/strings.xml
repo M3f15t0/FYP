@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">FYP 1.0</string>
+    <string name="list_of_crops">List of Crops</string>
+    <string name="crop_prompt">Select your plant</string>
+    <string name="postCode">Where will you plant your crops?</string>
+    <string name="db_drop">DROP TABLE IF EXISTS</string>
+    <string name="isPlanted">When did you plant it?</string>
+    <string name="year_month_day">YYYY-MM-DD</string>
+
+
+    <string-array name="location">
+        <item>Where do you want to plant it?</item>
+        <item>Indoor</item>
+        <item>Outdoor</item>
+    </string-array>
+
+    <string-array name="timeOfPlanting">
+        <item>Have you planted it yet?</item>
+        <item>Yes</item>
+        <item>No</item>
+    </string-array>
+
+</resources>
